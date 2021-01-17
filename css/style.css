@@ -43,7 +43,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Clicker Script", cursive;
   font-weight: 600;
 }
-
+h7{
+  font-weight: 600;
+}
 ::-webkit-selection {
   color: #818892;
   background: #f9f6f0;
